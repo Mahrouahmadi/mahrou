@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Istanmod 2022"
+date:   2022-10-8 00:00:00 +0330
+image:  img001.png
+tags:   [Istonmod, Fashion, Week, 2022]
+carousels:
+  - images: 
+    - image: /img/img003.png
+    - image: /img/img002.png
+    
+---
+
+I participated in many fashion weeks, but I can mention Istonmod.
+Istonmod is proud to present its first FASHION WEEK 2022 , the premiere platform in Istanbul to showcases fashion in an experienced way . The focus of this inspiring event is meant to bring forward design thinking, creativity, self-expression and talent. Two days of high decibel inspiring creative fashion shows and designer showrooms that celebrate local and regional homegrown creative talent and brands, to be unveiled in the iconic city of Istanbul, to an elite audience of Fashion and Style lovers. Curated by global experts, committed to reinventing fashion platforms, to provide the perfect showcase for Designers and International Brands. We do so in an experiential manner, creating a breath-taking and immersive experiences.
+
+{% include carousel.html height="100" unit="%" duration="7" number="1" %}

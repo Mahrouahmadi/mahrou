@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Missan"
+date:   2022-10-8 00:00:00 +0330
+image:  img047.png
+tags:   [Missan, Cosmos, Beauty]
+carousels:
+  - images: 
+    - image: /img/img046.png
+    - image: /img/img037.png
+    - image: /img/img049.png
+    - image: /img/img036.png
+    - image: /img/img048.png
+    
+---
+It is one of my honors to continue working with the Missan brand.
+This brand has makeup, beauty, fashion, etc., which is the creator of this brand, my dear Sanaz.
+
+Missan brand has always been one of the most active and best sponsors in the best fashion weeks and programs.
+
+{% include carousel.html height="100" unit="%" duration="7" number="1" %}
