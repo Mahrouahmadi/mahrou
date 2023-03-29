@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modeling"
+title:  "Accessories modeling"
 date:   2022-10-8 00:00:00 +0330
 image:  img010.png
 tags:   [Modeling]
