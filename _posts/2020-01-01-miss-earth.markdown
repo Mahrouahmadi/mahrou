@@ -2,7 +2,7 @@
 layout: post
 title:  "Miss Earth"
 date:   2022-10-8 00:00:00 +0330
-image:  img012+1.png
+image:  img026.png
 tags:   [Miss, Earth]
 carousels:
   - images: 
