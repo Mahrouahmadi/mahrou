@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sports"
+title:  "Sport modeling"
 date:   2022-10-8 00:00:00 +0330
 image:  img033.png
 tags:   [Modeling]
