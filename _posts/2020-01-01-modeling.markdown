@@ -10,45 +10,9 @@ carousels:
     - image: /img/img030.png
     - image: /img/img034.png
     - image: /img/img035.png
-  - images: 
-    - image: /img/img014.png
-    - image: /img/img015.png
-    - image: /img/img016.png
-    - image: /img/img017.png
-    - image: /img/img016.png
-  - images: 
-    - image: /img/img039.png
-    - image: /img/img040.png
-    - image: /img/img041.png
-    - image: /img/img045.png
-  - images: 
-    - image: /img/img009.png
-    - image: /img/img010.png
-    - image: /img/img011.png
-    - image: /img/img012.png
     
 ---
 My main interest and focus are in modeling and I'm doing it part-time since 2015.
 Modeling is an art form I deeply love.
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
-
-I used to think it was just about being in front of the camera, but it's also about you, your body, how you present yourself, whom you wear, and whom you identify with.
-Under different lights, lenses, and creative direction, modeling gives me a chance to become a different person, one shutter clicks at a time. 
-
-I celebrate my identity as a woman of color and align myself with brands that do the same.
-
-{% include carousel.html height="100" unit="%" duration="7" number="2" %}
-
-In relation to wedding modeling, I have modeling experience in bridal make-up, wedding dresses, and bridal events since 2015.
-as well as in fashion weeks related to weddings.
-
-
-{% include carousel.html height="100" unit="%" duration="7" number="3" %}
-
-
-In relation to the modeling of accessories and jewelry, I have a working experience in the field of clothing jewelry, and accessories, as well as advertisements for jewelry and gold ateliers.
-
-
-
-{% include carousel.html height="100" unit="%" duration="7" number="4" %}

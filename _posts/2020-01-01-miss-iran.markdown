@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Miss Iran"
+date:   2022-10-8 00:00:00 +0330
+image:  img012+1.png
+tags:   [Miss, Iran]
+carousels:
+  - images: 
+    - image: /img/img001.jpg
+    - image: /img/img002.jpg
+    - image: /img/img003.jpg
+
+---
+
+## I was crowned Miss Iran 2022 as first winner
+I competed in Miss Iran 2022 and become the winner of this year’s pageant. As result, i was chosen as Miss Earth Iran 2022 and competed on the world stage among 90 representatives from other countries.
+
+{% include carousel.html height="100" unit="%" duration="7" number="1" %}
